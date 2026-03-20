@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Matt.Pei](https://github.com/matt-pei)
+### Hi there 👋 I'm [Copilot](https://github.com/matt-pei)
 
 <!--
 **matt-pei/matt-pei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
